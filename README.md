@@ -26,4 +26,7 @@ Embarking on a journey to unlock the true potential of data, we initiated a tran
 7. Wage Increase for Non-Smokers: In response to HR's directive, we calculated personalized wage increases or annual compensations for Non-Smokers, aligning with the designated Insurance Budget of $983,221. This initiative aims to promote and reward healthier lifestyle choices among our workforce.
 
 8 . HR Dashboard Development: Addressing HR's need for comprehensive data visualization, we created a dynamic dashboard based on the approved wireframe. This intuitive tool empowers HR professionals to gain insights into absenteeism trends, facilitating informed decision-making and proactive management
+![1](https://github.com/yashjajoria/HR-Analytics-Absenteeism/assets/123293890/63b484c8-9915-4967-9633-b76b79e889a6)
+![2](https://github.com/yashjajoria/HR-Analytics-Absenteeism/assets/123293890/db120f00-60e2-4241-bef5-20554ebf8560)
+
 
